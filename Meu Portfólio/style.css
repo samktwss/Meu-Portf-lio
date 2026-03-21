@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(75, 75, 75);
+}
+
+#image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    width: auto;  
+}
+
+#Top {
+    background-color: rgb(80, 80, 80);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+img {
+    border-radius: 100px;
+  width: 200px;
+  height: auto;
+}
+
+a {
+    color: azure;
+}
+
+h1 {
+    color: aliceblue;
+}
+
+h2 {
+    color: aliceblue;
+}
+
+p {
+    color: aliceblue;
+}
+
+hr {
+    color: aliceblue;
+}
+
+li {
+    color: rgb(189, 189, 189);
+}
+
+b {
+    color: rgb(189, 189, 189);
+    font-weight: 1000;
+}
